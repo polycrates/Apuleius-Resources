@@ -5,6 +5,6 @@ So far I have a complete vocab list and a fully lemmatized html text of the Meta
 - Almost all of the dictionary entries were derived from the Bridge's Latin master file: https://github.com/GitClassical/Bridge/tree/master/data
 - note that the line numbers in the oldfather concordance (based on Helm's Teubner) are included in the word tags in the html, but did not make the transition with complete success.
 
-I've also included a csv version (greatly simplified, only the Met.) of the Bridge's digital concordance
+I've also included a csv version (greatly simplified, only the Met.) of the Bridge's digital concordance, and a csv of my own html data for comparison.
 # TODO:
 I'm going to have to park this for a few months, but before I do so I plan to finish the html file so that it can be used to read the text with vocab lookups (as here: https://hypotactic.com/apuleius/apuleius2.html)
