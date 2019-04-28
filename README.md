@@ -3,8 +3,8 @@ Hopefully this will develop into a full commentary project on Apuleius' Metamorp
 So far I have a complete vocab list and a fully lemmatized html text of the Metamorphoses. All lemmas point to entries in the vocab list. The text is from the Latin Library (with some corrections).
 - Most of the lemmas were derived from the Bridge's digitization of Oldfather's concordance: https://github.com/GitClassical/Concordances 
 - Almost all of the dictionary entries were derived from the Bridge's Latin master file: https://github.com/GitClassical/Bridge/tree/master/data
-- note that the line numbers in the oldfather concordance (based on Helm's Teubner) are included in the word tags in the html, but did not make the transition with complete success.
+- note that the line numbers in the oldfather concordance (based on Helm's Teubner) are included in the word tags in the html, but did not make the transition with complete success. I made a pretty good ocr of the Teubner at archive.org in the hopes of using it to correct those, but haven't yet wrapped my head around that. The ocr text is included here in case someone else wants to try. It's not super important, but it's a pity to lose data.
 
-I've also included a csv version (greatly simplified, only the Met.) of the Bridge's digital concordance
+I've also included a csv version (greatly simplified, only the Met.) of the Bridge's digital concordance, and a csv of my own html data for comparison.
 # TODO:
 I'm going to have to park this for a few months, but before I do so I plan to finish the html file so that it can be used to read the text with vocab lookups (as here: https://hypotactic.com/apuleius/apuleius2.html)
