@@ -1,4 +1,6 @@
 {
+"FAENVM_": ["faenum –ī n.","Noun", "hay, straw","hay, straw"],
+"FORMIDO_1": ["formīdō formīdinis f.","Noun","fear","fear"],
 "ARTVS_1": ['artus artūs m.', 'Noun', "limb, leg", "limb, leg"],
 "OLIDVS_": ['olidus -a -um', 'Adjective', 'odorous, smelling, rank', 'odorous, smelling, rank'],
 "EXSPOLIATIO_": ['exspoliātiō, -ōnis f.', 'Noun', 'a despoiling, plundering', 'a despoiling, plundering'],
@@ -5375,6 +5377,7 @@
 "ILLACRIMO_": ['inlacrimō inlacrimāre inlacrimāvī inlacrimātus', 'Verb', 'to weep', 'to weep'],
 "DOMINIVM_": ['dominium –ī n.', 'Noun', 'lordship, a banquet', 'lordship, rule, right of ownership, a feast, banquet'],
 "COMMENDATIO_": ['commendātiō commendātiōnīs f.', 'Noun', 'recommendation', 'recommendation, commendation'],
+"COMMENDATVS_": ["commendātus -a -um","Adjective","recommended,commended, distinguished","recommended,commended, distinguished"],
 "INFANTVLVS_": ['īnfantulus –ī m. ', 'Noun', 'a little boy, infant boy', 'a little boy, infant boy'],
 "PVLLVS_1": ['pullus –ī m.', 'Noun', 'a young animal, chicken; chick; a term of endearment', 'a chicken, a young animal, foal, young, offspring; chick; a term of endearment'],
 "HAEDVS_": ['haedus –ī m.', 'Noun', 'a young goat, kid', 'a young goat, kid'],
